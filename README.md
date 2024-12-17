@@ -4,5 +4,5 @@
 
 ##### features:
 - this repo contains credentials. ( which you may not have. *Sorry*)
-- 
-- 
+- routing data from HTTP Inceptors to kafka topics
+- getting data from kafka topic with flink and enrich it(with 'country', 'city' and 'state' extracted from the IP address), then pass it forward.
