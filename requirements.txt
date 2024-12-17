@@ -1,0 +1,18 @@
+apache-flink
+requests
+psycopg2-binary
+
+## The following requirements were added by pip freeze:
+# certifi==2024.12.14
+# charset-normalizer==3.4.0
+# cloudpickle==3.1.0
+# idna==3.10
+# psycopg2-binary==2.9.10
+# py4j==0.10.9.7
+# pyflink==1.0
+# python-dateutil==2.9.0.post0
+# requests==2.32.3
+# setuptools==75.6.0
+# six==1.17.0
+# urllib3==2.2.3
+
